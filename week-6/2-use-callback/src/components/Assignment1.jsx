@@ -7,7 +7,7 @@ export function Assignment1() {
 
     // Your code starts here
     function handleIncrement() {
-
+        
     }
 
     function handleDecrement() {
